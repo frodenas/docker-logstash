@@ -19,4 +19,5 @@ CMD [""]
 # Expose listen ports
 EXPOSE 514
 EXPOSE 9200
+EXPOSE 9292
 EXPOSE 9300
