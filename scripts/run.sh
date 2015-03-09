@@ -2,4 +2,4 @@
 
 # Start Logstash
 echo "Starting Logstash..."
-/logstash/bin/logstash agent --config /scripts/logstash.conf
+/logstash/bin/logstash agent --config /scripts/logstash.conf -- web
